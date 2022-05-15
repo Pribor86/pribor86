@@ -8,7 +8,7 @@ I've been learn code last 3 years, 2 of them in university course Web Desing and
 * ✉️  You can contact me at [pribor86@gmail.com](mailto:pribor86@gmail.com) 
 * 🚀  I'm currently working on [RunProperty OU](http://runproperty.com) 
 * 🧠  I'm learning MEVN, JAVA, C#, Web Technology 
-* ⚡  I'm student, but currently it's no so bad! =)
+* ⚡  I'm student, but currently it's not so bad actually! =)
 
 ### Skills
 
