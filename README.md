@@ -6,9 +6,9 @@ I've been learn code last 3 years, 2 of them in university course Web Desing and
 * 🌍  I'm based in Tallinn, Estonia 
 * 🖥️  See my portfolio at [LinkedIn](http://www.linkedin.com/in/aleksandr-grigorjev86/) 
 * ✉️  You can contact me at [pribor86@gmail.com](mailto:pribor86@gmail.com) 
-* 🚀  I'm currently working on [RunProperty OU](http://runproperty.com) 
-* 🧠  I'm learning MEVN, JAVA, C#, Web Technology 
-* ⚡  I'm student, but actually it's not so bad! =)
+* 🚀  I'm currently working on [Union finTech OU](https://www.unionfintech.com/union/)
+* 🧠  Stack at current work VueJs, ExpressJs, NodeJS, Oracle DataBase
+* ⚡  Last year studing at university =)
 
 ### Stack at work
 
