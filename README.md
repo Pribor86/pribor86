@@ -1,6 +1,6 @@
 Hi 👋 My name is Aleksandr Grigorjev 
 ====================================  
-Junior Software Developer 
+Software Developer 
 -------------------------  
 I've been learn code last 4 years, 2 of them in university course Web Desing and Web Technology.  
 * 🌍  I'm based in Tallinn, Estonia 
