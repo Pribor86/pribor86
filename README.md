@@ -2,13 +2,13 @@ Hi 👋 My name is Aleksandr Grigorjev
 ====================================  
 Software Developer 
 -------------------------  
-I've been learn code last 4 years, 2 of them in university course Web Desing and Web Technology.  
+
 * 🌍  I'm based in Tallinn, Estonia 
 * 🖥️  See my portfolio at [LinkedIn](http://www.linkedin.com/in/aleksandr-grigorjev86/) 
 * ✉️  You can contact me at [pribor86@gmail.com](mailto:pribor86@gmail.com) 
 * 🚀  I'm currently working on [Union finTech OU](https://www.unionfintech.com/union/)
 * 🧠  Stack at current work VueJs, ExpressJs, NodeJS, Python, Oracle DataBase
-* ⚡  Last year studing at university =)
+* ⚡   Bachelor degree in Design and Web Development =)
 
 ### Stack at work
 
