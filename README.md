@@ -7,7 +7,7 @@ Software Developer
 * 🖥️  See my portfolio at [LinkedIn](http://www.linkedin.com/in/aleksandr-grigorjev86/) 
 * ✉️  You can contact me at [pribor86@gmail.com](mailto:pribor86@gmail.com) 
 * 🚀  I'm currently working on [Union finTech OU](https://www.unionfintech.com/union/)
-* 🧠  Stack at current work VueJs, ExpressJs, NodeJS, Python, Oracle DataBase
+* 🧠  Stack at current work VueJs, ExpressJs, NodeJS, Python, Oracle DataBase, PL/SQL
 * ⚡   Bachelor degree in Design and Web Development =)
 
 ### Stack at work
