@@ -10,9 +10,6 @@ Software Developer
 * 🧠  Stack at current work VueJs, ExpressJs, NodeJS, Python, Oracle DataBase, PL/SQL
 * ⚡   Bachelor degree in Design and Web Development =)
 
-### Stack at work
-
-MongoDB ExpressJS VueJS NodeJS
 
 ### Skills
 
