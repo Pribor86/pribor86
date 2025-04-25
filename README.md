@@ -19,10 +19,12 @@ Software Developer
  
  <p align="left"> <a href="https://www.facebook.com/pribor86" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a> <a href="https://www.github.com/pribor86" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/pribor86" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/aleksandr-grigorjev86/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
 
-<!-- ### Badges
+
 
 <b>My GitHub Stats</b>
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pribor86&hide_progress=true)
+<!-- ### Badges
 <a href="http://www.github.com/pribor86"><img src="https://github-readme-stats.vercel.app/api?username=pribor86&show_icons=true&hide=&count_private=true&title_color=22c55e&text_color=ffffff&icon_color=facc15&bg_color=0f172a&hide_border=true&show_icons=true" alt="pribor86's GitHub stats" /></a>
 <a href="http://www.github.com/pribor86"><img src="https://github-readme-streak-stats.herokuapp.com/?user=pribor86&stroke=ffffff&background=0f172a&ring=22c55e&fire=22c55e&currStreakNum=ffffff&currStreakLabel=22c55e&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 <a href="http://www.github.com/pribor86"><img src="https://activity-graph.herokuapp.com/graph?username=pribor86&bg_color=0f172a&color=ffffff&line=facc15&point=ffffff&area_color=0f172a&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a> -->
