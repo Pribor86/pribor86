@@ -23,7 +23,7 @@ Software Developer
 
 <b>My GitHub Stats</b>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pribor86&hide_progress=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pribor86&hide_progress=false)
 <!-- ### Badges
 <a href="http://www.github.com/pribor86"><img src="https://github-readme-stats.vercel.app/api?username=pribor86&show_icons=true&hide=&count_private=true&title_color=22c55e&text_color=ffffff&icon_color=facc15&bg_color=0f172a&hide_border=true&show_icons=true" alt="pribor86's GitHub stats" /></a>
 <a href="http://www.github.com/pribor86"><img src="https://github-readme-streak-stats.herokuapp.com/?user=pribor86&stroke=ffffff&background=0f172a&ring=22c55e&fire=22c55e&currStreakNum=ffffff&currStreakLabel=22c55e&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
