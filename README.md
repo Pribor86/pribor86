@@ -6,9 +6,9 @@ Software Developer
 * 🌍  I'm based in Tallinn, Estonia 
 * 🖥️  See my portfolio at [LinkedIn](http://www.linkedin.com/in/aleksandr-grigorjev86/) 
 * ✉️  You can contact me at [pribor86@gmail.com](mailto:pribor86@gmail.com) 
-* 🚀  I'm currently working on [Union finTech OU](https://www.unionfintech.com/union/)
+* 🚀  I'm currently working on [Union finTech OU](https://www.unionfintech.com/union/) since 2023 JAN
 * 🧠  Stack at current work VueJs, ExpressJs, NodeJS, Python, Oracle DataBase, PL/SQL
-* ⚡   Bachelor degree in Design and Web Development =)
+* ⚡  Bachelor degree in Design and Web Development
 
 
 ### Skills
